@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/dunkelhai"><img src="https://github-readme-stats.vercel.app/api?username=dunkelhai&hide_border=true&show_icons=true&theme=dracula" alt="alysson github status"></a>
+   <a href="https://github.com/dunkelhai"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunkelhai" alt="alysson github status"></a>
 </p>
 
 <p align="center">
