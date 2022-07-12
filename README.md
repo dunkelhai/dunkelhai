@@ -16,7 +16,7 @@
   <strong><a href="https://www.instagram.com/dunkelhai/">Instagram</a></strong> |
 </p>
 
-<p align="center"> I'm currently workings as Teacher and Java Developer.</p>
+<p align="center"> I'm currently working as Teacher and Java Developer.</p>
 
 
 <h2 align="center"> About me </h2>
@@ -27,7 +27,7 @@
   <br>
   <br>
 <li>
- <b>Name:</b> <a target=_blank>Alysson Oliveira</a></li>
+ <b>Name:</b> Alysson Oliveira</li>
 </li>
 <li><b>Loves:</b> Anime, Basketball, Iron Maiden, History, Travel and One Piece</li>
 <li>
