@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Greetings, I'm Alysson Oliveira<a href="teste"></a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+<h1 align="center">Welcome to my GitHub profile!</h1>
 
 <p align="center">
   <a href="https://github.com/dunkelhai"><img src="https://github-readme-stats.vercel.app/api?username=dunkelhai&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
@@ -17,18 +17,4 @@
   <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong>
 </p>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
