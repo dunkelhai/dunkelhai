@@ -17,25 +17,7 @@
 
 <p align="center"> I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
 
-<body>
-  <center>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-<br>
-<div align="center">
-<!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a href="https://laby.net/@liebesschwur" >
-   <img src="https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
-  </a>
-  <br>
-  <p>𝑔𝒾𝓇𝒾 𝑔𝒾𝓇𝒾 𝑒𝓎𝑒 𝒾𝓀𝑒𝓃𝒶𝒾 𝒷𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒</p>
-  
-  ![](https://komarev.com/ghpvc/?username=PrincessAkira&style=flat-square)
-</div>
- <br>
-    <div align="center">
-<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-      </div>
-<div>
+
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
