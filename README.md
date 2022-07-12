@@ -38,9 +38,6 @@
 <h2 align="center"> Skills </h2>
  <br>
 <p>
-  <div align="center">
-<img src="https://c.tenor.com/6MsukwHKJ58AAAAC/ara-anime.gif" align="right">
-  </div>
 </div>
 <div>
   <br>
