@@ -39,7 +39,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://c.tenor.com/6MsukwHKJ58AAAAC/ara-anime.gif" align="right">
   </div>
 </div>
 <div>
@@ -53,9 +53,9 @@ According these two latins sentences, I'm trying to do my best in every opportun
 My focus right now: Java, Python and MySQL.
 </p>
 <br>
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2 align="center"> Contact me </h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://c.tenor.com/SVcqzK1PPW0AAAAC/fate-stay-night-saber.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
 <p align="center">Hewe awe some of my <br>
