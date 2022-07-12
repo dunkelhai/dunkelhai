@@ -67,7 +67,7 @@ My focus right now: Java, Python and MySQL.
 <br><strong>Kirito#13120</strong></br>
 <p align="center"><a href="https://www.xbox.com" target="_blank"> <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"/></a>
 <br><strong>alykingdark</strong></br>
-<p align="center"><a href="https://www.playstation.com" target="_blank"> <img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white"/> 
+<p align="center"><a href="https://www.playstation.com" target="_blank"> <img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white"/></a> 
 <br><strong>Hades-dono</strong></br>  
 </a>     
   
