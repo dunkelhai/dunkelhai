@@ -20,7 +20,7 @@
 
 <h2 align="center"> About me </h2>
   <div align="center">
-<img src="https://c.tenor.com/tlP1gAvWPmAAAAAC/kono-suba-anime.gif" align="center">
+<img src="https://c.tenor.com/tlP1gAvWPmAAAAAC/kono-suba-anime.gif" align="right">
   </div>
   <br>
   <br>
