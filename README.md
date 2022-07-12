@@ -24,20 +24,10 @@
   </div>
 <li>
  <b>Name:</b> <a target=_blank>Alysson Oliveira</a></li>
-<li>
-<b>Fursona:</b> Female Snow Fox
+<b>Loves:</b> Anime, Basketball, Iron Maiden, History, Travel and One Piece
 </li>
 <li>
-<b>Loves:</b> anime, osu, rhythm games
-</li>
-<li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-</li>
-<li>
-<b>Working @:</b> Intave Anticheat
+<b>Hobbys:</b> Tech Stuff, Game Development, Web Development
 </li>
 <br><br><br>
 </div>
