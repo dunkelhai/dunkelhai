@@ -18,6 +18,9 @@
  <a href="https://www.linkedin.com/in/alysson-oliveira-397a63197/">
  <img src="https://img.shields.io/badge/-Alysson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alysson-oliveira-397a63197/"/>
  </a>
+ <a href="https://www.instagram.com/dunkelhai/">
+ <img src="https://img.shields.io/badge/-Alysson-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dunkelhai/"/>
+ </a> 
   <strong><a href="https://www.instagram.com/dunkelhai/">Instagram</a></strong> |
 </p>
 
