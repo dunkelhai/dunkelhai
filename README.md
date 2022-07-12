@@ -63,7 +63,8 @@ My focus right now: Java, Python and MySQL.
 <br>
 <p align="center">Here are some of my social profiles</p>
 <p align="center"><a href="https://www.crunchyroll.com/pt-br/user/Hades-dono" target="_blank"><img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white"/>
-<p align="center"><a href="https://www.battle.net" target="_blank"><img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white"/></a><strong>------>Kirito#13120</strong>
+<p align="center"><a href="https://www.battle.net" target="_blank"><img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white"/></a>
+<br><strong>Kirito#13120</strong></br>
 <p align="center"><a href="https://www.battle.net" target="_blank"> <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"/></a>   
 <p align="center"><a href="https://www.battle.net" target="_blank"> <img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white"/> 
 </a>     
