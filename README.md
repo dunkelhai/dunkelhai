@@ -35,6 +35,8 @@
 <br><br><br>
 </div>
 <div>
+  <br>
+  <br>
 <h2 align="center"> Skills </h2>
  <br>
 <p>
