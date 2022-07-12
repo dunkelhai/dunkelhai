@@ -1,10 +1,6 @@
-<h1 align="center">Greetings, I'm Alysson Oliveira!</h1>
 <p align="center">
-  <a href="https://github.com/dunkelhai"><img src="https://wallpapercave.com/wp/wp4727521.jpg" alt=" Alysson"></a>
+  <a href="https://github.com/dunkelhai"><img src="https://github.com/dunkelhai/dunkelhai/blob/main/gitHubAlysson.png?raw=true" alt=" Alysson"></a>
 </p>
-
-<h1 align="center">Welcome to my GitHub profile!</h1>
-
 <p align="center">
   <a href="https://github.com/dunkelhai"><img src="https://github-readme-stats.vercel.app/api?username=dunkelhai&hide_border=true&show_icons=true&theme=dracula" alt="alysson github status"></a><br><br>
    <a href="https://github.com/dunkelhai"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunkelhai&theme=dracula&hide_border=true" alt="alysson github status"></a><br><br>
