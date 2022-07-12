@@ -24,8 +24,8 @@
   </div>
 <li>
  <b>Name:</b> <a target=_blank>Alysson Oliveira</a></li>
-<b>Loves:</b> Anime, Basketball, Iron Maiden, History, Travel and One Piece
 </li>
+<li><b>Loves:</b> Anime, Basketball, Iron Maiden, History, Travel and One Piece</li>
 <li>
 <b>Hobbys:</b> Tech Stuff, Game Development, Web Development
 </li>
