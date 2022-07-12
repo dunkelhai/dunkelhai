@@ -58,16 +58,16 @@ My focus right now: Java, Python and MySQL.
 <img src="https://c.tenor.com/SVcqzK1PPW0AAAAC/fate-stay-night-saber.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
+<p align="center">Here are some of my social <br>
+profiles</p>
 <p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 <p align="center"><a href="https://twitch.tv/lillykali" target="_blank"><img src="https://img.shields.io/badge/Lillykali%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center">Yes baby, thank you!</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src="https://c.tenor.com/N5v8Cqz0DY0AAAAC/makise-kirusu-steins-gate.gif">
 </div>
 <hr>
 </div>
