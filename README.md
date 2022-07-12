@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/dunkelhai"><img src="https://images5.alphacoders.com/112/1126707.jpg" alt=" Alysson"></a>
+  <a href="https://github.com/dunkelhai"><img src="https://wallpapercave.com/wp/wp4727521.jpg" alt=" Alysson"></a>
 </p>
 
 <h1 align="center">Greetings, I'm Alysson Oliveira<a href="teste"></a>!</h1>
