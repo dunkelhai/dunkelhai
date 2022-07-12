@@ -19,7 +19,7 @@
  </a> 
 </p>
 
-<p align="center"> I'm currently working as Teacher and Java Developer.</p>
+<p align="center"><strong> I'm currently working as a Teacher and Java Developer</strong></p>
 
 
 <h2 align="center"> About me </h2>
