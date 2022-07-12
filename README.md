@@ -51,9 +51,6 @@ My focus right now: Java, Python and MySQL.
 </p>
 <br>
 <h2 align="center"> Contact me </h2>
-  <div align="center">
-<img src="https://c.tenor.com/SVcqzK1PPW0AAAAC/fate-stay-night-saber.gif" align="right">
-  </div>
 <br>
 <p align="center">Here are some of my social <br>
 profiles</p>
