@@ -6,8 +6,8 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
 <p align="center">
-  <a href="https://github.com/dunkelhai"><img src="https://github-readme-stats.vercel.app/api?username=dunkelhai&hide_border=true&show_icons=true&theme=dracula" alt="alysson github status"></a>
-   <a href="https://github.com/dunkelhai"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunkelhai&theme=dracula" alt="alysson github status"></a>
+  <a href="https://github.com/dunkelhai"><img src="https://github-readme-stats.vercel.app/api?username=dunkelhai&hide_border=true&show_icons=true&theme=dracula" alt="alysson github status"></a><br><br>
+   <a href="https://github.com/dunkelhai"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunkelhai&theme=dracula&hide_border=true" alt="alysson github status"></a>
 </p>
 
 <p align="center">
