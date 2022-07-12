@@ -15,7 +15,7 @@
   <strong><a href="https://www.instagram.com/dunkelhai/">Instagram</a></strong> |
 </p>
 
-<p align="center"> I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center"> I'm currently workings as Teacher and Java Developer.</p>
 
 
 <h2 align="center"> About me </h2>
