@@ -34,6 +34,9 @@
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNrNWYwbGNldzd6d3Qxcjc2aHp4d3ZiNzZleGF5aWdpYjZxMzU2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vv6c2acsgJ3yN5aJIk/200.webp" height="180" alt="Anime GIF 1"/>
     </td>
     <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/dunkelhai/dunkelhai/825d45eb3a3df5a3815f595cfa0fa556ee5ce47c/Bandeira_do_Rio_Grande_do_Sul.svg" height="180" alt="RS"/>
+    </td>
+    <td align="center" valign="middle">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJsdWlxcmZsZndxbzY0bjdkaTQ4dnB4bjdtcWJkbTRpeWtzMzAwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/geuXiMq0MNqfAyxS7b/giphy.webp" height="180" alt="Anime GIF 2"/>
     </td>
   </tr>
@@ -45,7 +48,7 @@
 - 📚 **Background:** 
   - Graduado em *Análise e Desenvolvimento de Sistemas* e *Desenvolvimento de Jogos Digitais*.
   - Pós-Graduado em *Engenharia de Software*, *Inteligência Artificial*, *Desenvolvimento Full-Stack Java* e *Gestão da Indústria 4.0*.
-- 🌍 **Passions:** História (Sengoku Jidai & História do Japão), Viagens internacionais (Japão 🇯🇵, Coreia do Sul 🇰🇷, Reino Unido 🇬🇧, Itália 🇮🇹, Grécia 🇬🇷, Qatar 🇶🇦), Anime, Heavy Metal & Games.
+- 🌍 **Passions:** História, Viagens 🇯🇵🇰🇷🇬🇧🇮🇹🇬🇷🇶🇦, Anime, Heavy Metal, Pop (Dua Lipa, Taylor Swift, Miley Cyrus), Beer & Games.
 
 ---
 
