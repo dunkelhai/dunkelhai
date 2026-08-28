@@ -40,7 +40,7 @@
 </table>
 
 - 💻 **Core Stack:** Full Stack Software Engineering focado no ecossistema **Java & Spring Boot**, Web moderno e soluções de IA.
-- 💼 **Industry:** Full Stack Developer na **Bionexo** (HealthTech).
+- 💼 **Industry:** Full Stack Developer na **Bionexo Tasy** (HealthTech).
 - 🎓 **Academia:** Professor de Programação no **Senac SC** e Professor Universitário na **Unoesc**.
 - 📚 **Background:** 
   - Graduado em *Análise e Desenvolvimento de Sistemas* e *Desenvolvimento de Jogos Digitais*.
