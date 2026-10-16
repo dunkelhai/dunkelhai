@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/dunkelhai">
-    <img src="https://github.com/dunkelhai/dunkelhai/blob/main/gitHubAlysson.png?raw=true" alt="Alysson Oliveira" width="850">
+    <img src="https://github.com/dunkelhai/dunkelhai/blob/main/alysson-github.png?raw=true" alt="Alysson Oliveira" width="850">
   </a>
 </p>
 
